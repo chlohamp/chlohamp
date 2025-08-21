@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chloe</h1>
-<h3 align="center">A fourth-year Physics PhD who specializes in computational neuroscience</h3>
+<h3 align="center">A fourth-year Physics PhD student who specializes in computational neuroscience</h3>
 
 - 🔭 I’m currently working on [habenular alterations in resting state functional connectivity among autistic individuals](https://github.com/chlohamp/habenula-abide-rsfc)
 
