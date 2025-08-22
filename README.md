@@ -45,8 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=chlohamp&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chlohamp&radius=16&theme=minimal&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chlohamp&radius=16&theme=minimal&area=true&order=5&line=e6a3a4&point=b15c56&bg_color=fdf5f6&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
