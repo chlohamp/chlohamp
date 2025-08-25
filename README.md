@@ -1,8 +1,8 @@
-<h1 align="left">✨ Welcome to my Github Page ✨</h1>
+<h1 align="center">🌸✨ Welcome to my GitHub Page ✨🌸</h1>
 
 ###
 
-<p align="left">My name is Chloe and I'm a 4th year Physics PhD student at Florida International University!</p>
+<p align="center">Hi! My name is Chloe and I'm a 4th year Physics PhD student at Florida International University!</p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ I specialize in computational neuroscience research<br>📚 I'm currently researching habenular alterations in rsFC among autistic individuals<br>🎯 I'm looking for help developing NeuroSites</p>
+<p align="left">
+  🧠 I specialize in computational neuroscience research.<br>
+  📚 I'm currently researching habenular alterations in rsFC among autistic individuals.<br>
+  🤝 I'm looking for help developing NeuroSites.
+</p>
 
 ###
 
